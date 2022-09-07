@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ShoppingAndManager:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShoppingAndManager_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ShoppingAndManager/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ShoppingAndManager" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:2.0.10" />
+          <element id="library" level="project" name="Maven: com.alibaba.fastjson2:fastjson2-extension:2.0.10" />
+          <element id="library" level="project" name="Maven: com.alibaba.fastjson2:fastjson2:2.0.10" />
+          <element id="library" level="project" name="commons-fileupload-1.4" />
+          <element id="library" level="project" name="commons-io-2.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

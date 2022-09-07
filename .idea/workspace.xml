@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ShoppingAndManager:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09854227-789e-47a5-97dc-b07c67e2f7de" name="变更" comment="学期课设的后端代码（无框架），仅供参考。">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ShoppingAndManager_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/JdbcUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="KX" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2B3Pfj5OhzWpNB1nTni2LCgq6r3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "D:/IdeaProjects/ShoppingAndManager/lib/commons-io-2.4.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.17089844",
+    "project.structure.side.proportion": "0.2572707",
+    "settings.editor.selected.configurable": "MavenSettings"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\ShoppingAndManager\lib" />
+      <recent name="D:\IdeaProjects\ShoppingAndManager\web" />
+      <recent name="D:\IdeaProjects\ShoppingAndManager\src\main\java\servlet" />
+      <recent name="D:\IdeaProjects\ShoppingAndManager\web\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ShoppingAndManager:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ShoppingAndManager_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0919fc18-8db4-433c-93d8-7df89c56c547" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49477" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ShoppingAndManager:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="09854227-789e-47a5-97dc-b07c67e2f7de" name="变更" comment="" />
+      <created>1656131903675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656131903675</updated>
+      <workItem from="1656131905258" duration="14938000" />
+      <workItem from="1656217815763" duration="1939000" />
+      <workItem from="1656824407979" duration="2947000" />
+      <workItem from="1656832998114" duration="3229000" />
+      <workItem from="1656850118248" duration="4034000" />
+      <workItem from="1656915177449" duration="882000" />
+      <workItem from="1656946136161" duration="2072000" />
+      <workItem from="1656980511041" duration="812000" />
+      <workItem from="1657000329741" duration="5281000" />
+      <workItem from="1657033679122" duration="936000" />
+      <workItem from="1657073388559" duration="1313000" />
+      <workItem from="1657111959577" duration="298000" />
+      <workItem from="1657115677896" duration="2164000" />
+      <workItem from="1657813130630" duration="354000" />
+      <workItem from="1658040725195" duration="1904000" />
+      <workItem from="1658124040367" duration="712000" />
+      <workItem from="1658487551745" duration="4858000" />
+      <workItem from="1658542153540" duration="6165000" />
+      <workItem from="1658570568512" duration="2203000" />
+      <workItem from="1658589103838" duration="391000" />
+      <workItem from="1658625140653" duration="3243000" />
+      <workItem from="1658638503356" duration="5130000" />
+      <workItem from="1659165044569" duration="303000" />
+      <workItem from="1659230681803" duration="1729000" />
+      <workItem from="1659245198605" duration="2955000" />
+      <workItem from="1659420233130" duration="4935000" />
+      <workItem from="1659439238255" duration="9036000" />
+      <workItem from="1659454830148" duration="684000" />
+      <workItem from="1659491225674" duration="3680000" />
+      <workItem from="1659531355128" duration="691000" />
+      <workItem from="1659941356142" duration="495000" />
+      <workItem from="1660202713239" duration="4457000" />
+      <workItem from="1660226653263" duration="3829000" />
+      <workItem from="1660267410459" duration="8878000" />
+      <workItem from="1660307110930" duration="2466000" />
+      <workItem from="1660312789784" duration="584000" />
+      <workItem from="1660354098070" duration="1563000" />
+      <workItem from="1660461842337" duration="2647000" />
+      <workItem from="1660477556012" duration="1352000" />
+      <workItem from="1660485995500" duration="934000" />
+      <workItem from="1660547167248" duration="2433000" />
+      <workItem from="1660563743603" duration="869000" />
+      <workItem from="1660615169776" duration="4594000" />
+      <workItem from="1660649002000" duration="630000" />
+      <workItem from="1660716299044" duration="5621000" />
+      <workItem from="1660744069730" duration="624000" />
+      <workItem from="1660807354513" duration="1315000" />
+      <workItem from="1660894320771" duration="1814000" />
+      <workItem from="1661062927110" duration="1803000" />
+      <workItem from="1661070304529" duration="2734000" />
+      <workItem from="1661182096170" duration="607000" />
+      <workItem from="1661216804126" duration="7411000" />
+      <workItem from="1661258789607" duration="2142000" />
+      <workItem from="1661304039203" duration="7264000" />
+      <workItem from="1661343258581" duration="6206000" />
+      <workItem from="1661516972477" duration="2988000" />
+      <workItem from="1661654309638" duration="2563000" />
+      <workItem from="1661687774620" duration="977000" />
+      <workItem from="1661777636284" duration="3393000" />
+      <workItem from="1661835955130" duration="4544000" />
+      <workItem from="1661844677319" duration="648000" />
+      <workItem from="1661848270388" duration="675000" />
+      <workItem from="1661867777657" duration="2321000" />
+      <workItem from="1661906879691" duration="3886000" />
+      <workItem from="1661943261904" duration="2148000" />
+      <workItem from="1661947853997" duration="2335000" />
+      <workItem from="1661998385745" duration="1541000" />
+      <workItem from="1662015878319" duration="1130000" />
+      <workItem from="1662021775140" duration="1366000" />
+      <workItem from="1662035948266" duration="1575000" />
+      <workItem from="1662097034793" duration="3686000" />
+      <workItem from="1662120388648" duration="8430000" />
+      <workItem from="1662176833521" duration="5827000" />
+      <workItem from="1662194334913" duration="1527000" />
+      <workItem from="1662208265119" duration="1503000" />
+      <workItem from="1662257392072" duration="2771000" />
+      <workItem from="1662303394288" duration="3384000" />
+      <workItem from="1662356884940" duration="1457000" />
+      <workItem from="1662430960100" duration="1292000" />
+      <workItem from="1662471431502" duration="926000" />
+      <workItem from="1662472673115" duration="104000" />
+      <workItem from="1662524855141" duration="668000" />
+      <workItem from="1662551259686" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学期课设的后端代码（无框架），仅供参考。" />
+    <option name="LAST_COMMIT_MESSAGE" value="学期课设的后端代码（无框架），仅供参考。" />
+  </component>
+</project>
